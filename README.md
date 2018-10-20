@@ -1,3 +1,3 @@
 # digital-talent
 
-Repository untuk latihan pemrograman Digital Talent Scholarship 2018
+Repository untuk tugas pemrograman Digital Talent Scholarship 2018
